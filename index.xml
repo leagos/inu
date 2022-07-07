@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CAESAR SHIBA</title>
+    <link>https://www.caesarshiba.com/</link>
+    <description>Recent content on CAESAR SHIBA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://www.caesarshiba.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Legals</title>
+      <link>https://www.caesarshiba.com/legals/</link>
+      <pubDate>Mon, 20 Dec 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://www.caesarshiba.com/legals/</guid>
+      <description>Article 1: Financial Non-Responsibility Clause Investing money, speculating and trading is risky, and you will always be the only responsible for your actions.
+Remember to NEVER invest more than you can afford to lose.
+Article 2: Informative Non-Responsibility Clause Website content and Telegram flux do NOT engage the CAESAR SHIBA team, and is not guaranteed in any way.
+As an example, the roadmap is purely informative and represents our team goals if everything works perfectly, which may obviously not always be possible.</description>
+    </item>
+    
+  </channel>
+</rss>
