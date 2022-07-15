@@ -1,13 +1,13 @@
 .noise-bg {
-  background-image: url('https://www.caesarshiba.com/img/bg_hu3d8af6c299a0192805df69523ef7b8d4_10061031_1920x1920_fit_q90_bgffffff_lanczos_3.jpg');
-  background-repeat: repeat;
-  background-position: center;
-  background-size: cover;
+    background-image: url('https://www.caesarshiba.com/img/bg_hu3d8af6c299a0192805df69523ef7b8d4_10061031_1920x1920_fit_q90_bgffffff_lanczos_3.jpg');
+    background-repeat: repeat;
+    background-position: center;
+    background-size: cover;
 }
 
 .cover-bg {
-  background-image: url('https://www.caesarshiba.com/img/cover_hu540db35fd256e8229d4783c1d4202fa9_2829027_1920x1920_fit_q90_bgffffff_lanczos_3.jpg');
-  background-repeat: no-repeat;
-  background-position: bottom;
-  background-size: cover;
+    background-image: url('/img/walrusbg.jpg');
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: cover;
 }
