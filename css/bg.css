@@ -6,7 +6,7 @@
 }
 
 .cover-bg {
-    background-image: url('/img/walrusbg.jpg');
+    background-image: url('https://raw.githubusercontent.com/leagos/inu/master/img/walrusbg.jpg');
     background-repeat: no-repeat;
     background-position: bottom;
     background-size: cover;
